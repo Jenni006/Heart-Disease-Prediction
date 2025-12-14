@@ -151,7 +151,8 @@ Contributions are welcome! Suggested ways to contribute:
 
 License
 -------
-This repository does not include a license file by default. If you want to release it publicly, consider adding an open source license (MIT, Apache-2.0, etc.) and include a `LICENSE` file.
+License
+MIT (see LICENSE)
 
 Contact
 -------
